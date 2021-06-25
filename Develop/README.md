@@ -43,22 +43,23 @@ Git clone the repo from Github
 ## Usage 
 This application will permit users to view, add, edit, and delete categories, products, and tags. Below videos demonstrate the functionality of the e-commerce back end.
 
-I. Walkthrough video covers MySQL shell [Click here](link here)<br>
+I. Walkthrough video covers MySQL shell [Click here](https://drive.google.com/file/d/1r_WcDCPPYow0gEEgHmhIZ0jgRq_JtqOA/view?usp=sharing)<br>
     * Source the schema <br>
     * Seed the database <br>
     * Start the npm Server
-  
-II. Walkthrough video covers API routes being tested in Insomnia Core. [Click here](link here)<br>
-    *  GET routes for all categories, all products, and all tags <br>
-    *  GET routes for a single category, a single product, and a single tag by Id<br>
-    *  POST, PUT, and DELETE routes for categories, products, and tags
 
-III. Walkthrough video showing all the technical acceptance criteria met. [CLick here](link here)<br>
+II. Walkthrough video showing all the technical acceptance criteria met. [CLick here](https://drive.google.com/file/d/1Nmz9sq3zJG-HSmudyaCe_pQJkwg10l89/view?usp=sharing)<br>
     * Uses the MySQL2 and Sequelize packages to connect to a MySQL database
     * Uses the dotenv package to use environment variables to store sensitive data, like a user’s MySQL username, password, and database name.
     * Syncs Sequelize models to a MySQL database on the server start.
     * Column definitions for all four models
     * Model associations
+  
+III. Walkthrough video covers API routes being tested in Insomnia Core. [CLick here](https://drive.google.com/file/d/1FzJToxYHWtpTprhWHOgDdM63MPSvwLkm/view?usp=sharing)<br>
+    *  GET routes for all categories, all products, and all tags <br>
+    *  GET routes for a single category, a single product, and a single tag by Id<br>
+    *  POST, PUT, and DELETE routes for categories, products, and tags
+
   
 ## Credits
 
